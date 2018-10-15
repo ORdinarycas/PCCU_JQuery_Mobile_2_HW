@@ -1,5 +1,5 @@
 # PCCU_JQuery_Mobile_2_HW
-jQuery Mobile 作業
+jQuery Mobile Chinese Culture University 作業
 
 ## 使用的 libary 該作業使用舊的
 1. jQuery        1.7.2 （最新的為：3.3.1）
