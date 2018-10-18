@@ -1,4 +1,4 @@
-# PCCU_JQuery_Mobile_2_HW
+# PCCU_JQuery_Mobile_2_HW (開發分支)
 jQuery Mobile Chinese Culture University 作業
 
 ## 使用的 libary 該作業使用舊的
